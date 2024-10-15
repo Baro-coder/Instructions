@@ -261,4 +261,4 @@ gazebo
 
 If the GUI apps are enabled in WSL it should open the Gazebo application window like:
 
-![gazebo-gui-initial-view](assets/gazebo-gui-initial-view.png)
+![gazebo-gui-initial-view](../../assets/gazebo-gui-initial-view.png)
